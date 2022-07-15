@@ -46,12 +46,8 @@ $RECYCLE.BIN/
 
 # personal additions to .gitignore
 
-# do not store PDF files
-**/*.pdf
-
 # do not store zip files
 **/*.zip
 
-# do not store source code or samples
+# do not store source code
 source-code/
-samples/
