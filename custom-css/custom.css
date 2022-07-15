@@ -1,6 +1,12 @@
 .navbar {
+  margin-left: 1em;
+  margin-right: 1em;
   margin-bottom: 1em;
   transition: top 0.3s;
+}
+
+.jumbotron {
+  margin-top: 3.5em;
 }
 
 html {
