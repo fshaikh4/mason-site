@@ -51,3 +51,7 @@ $RECYCLE.BIN/
 
 # do not store zip files
 **/*.zip
+
+# do not store source code or samples
+source-code/
+samples/
