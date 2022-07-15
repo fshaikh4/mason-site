@@ -1,0 +1,8 @@
+.navbar {
+  margin-bottom: 1em;
+  transition: top 0.3s;
+}
+
+html {
+  scroll-behavior: smooth;
+}
