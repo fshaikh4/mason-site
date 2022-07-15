@@ -6,7 +6,9 @@
 }
 
 .jumbotron {
-  margin-top: 3.5em;
+  margin: 1em;
+  margin-top: 4.5em;
+  margin-bottom: 4.5em;
 }
 
 html {
