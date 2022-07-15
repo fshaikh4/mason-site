@@ -48,3 +48,6 @@ $RECYCLE.BIN/
 
 # do not store PDF files
 **/*.pdf
+
+# do not store zip files
+**/*.zip
